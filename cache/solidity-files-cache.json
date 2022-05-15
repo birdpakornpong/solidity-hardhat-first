@@ -1,0 +1,81 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/bird/Desktop/bird-2022/solidity/first-hardhat/contracts/mycontract.sol": {
+      "lastModificationDate": 1652363419367,
+      "contentHash": "fb54f0864a81a0feedaab5c649af82d1",
+      "sourceName": "contracts/mycontract.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": false
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Mycontract"
+      ]
+    },
+    "/Users/bird/Desktop/bird-2022/solidity/first-hardhat/contracts/setPrice.sol": {
+      "lastModificationDate": 1652639536674,
+      "contentHash": "4990557dd7d6b57ce1bfcace4c1dbdd0",
+      "sourceName": "contracts/setPrice.sol",
+      "solcConfig": {
+        "version": "0.8.13",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": false
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "publicExternal"
+      ]
+    }
+  }
+}
